@@ -20,4 +20,9 @@ else if(randomNo2>randomNo1){
 else{
     document.querySelector("h1").innerHTML="It is a draw!";
 }
+function refreshPage() {
+    
+    location.reload();
+
+}
 
