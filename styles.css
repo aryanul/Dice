@@ -39,3 +39,16 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+.refresh{
+  border-radius: 20px;
+  background-color:cornsilk;
+  padding: 5px;
+  border: 5px solid cornflowerblue;
+  cursor: pointer;
+  font: 1em sans-serif;
+  color: cornflowerblue;
+}
+.refresh:hover{
+  background-color: bisque;
+  
+}
